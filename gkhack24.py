@@ -393,7 +393,7 @@ fig3.update_layout(
 # Show the plot
 fig3.show()
 
-df5 = pd.read_excel(""https://raw.githubusercontent.com/Awonke03/GKHACK24/main/NCData.xlsx"")
+df5 = pd.read_excel("https://raw.githubusercontent.com/Awonke03/GKHACK24/main/NCData.xlsx")
 
 # Sort the DataFrame by 'Agricultural Potential'
 northern_cape_df_sorted = df5.sort_values(by='Agricultural Potential', ascending=False)
