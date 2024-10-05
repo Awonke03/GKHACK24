@@ -483,6 +483,7 @@ from jupyter_dash import JupyterDash
 
 # Create the app
 app = JupyterDash(__name__, external_stylesheets=[dbc.themes.SLATE], suppress_callback_exceptions=True)
+server = app.server
 
 # Sidebar layout with full height and centered buttons
 sidebar = html.Div(
