@@ -601,7 +601,7 @@ def display_page(pathname):
 
 # Run the app on a different port
 if __name__ == "__main__":
-    app.run_server(debug=True, port=8009)
+    app.run_server(debug=True, port=18012)
 
 
 
