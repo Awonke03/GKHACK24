@@ -151,7 +151,7 @@ df.head(2)
 df.shape
 
 #importing the continents dataset
-data2=pd.read_csv(""https://raw.githubusercontent.com/Awonke03/GKHACK24/main/continents-according-to-our-world-in-data.csv"")
+data2=pd.read_csv("https://raw.githubusercontent.com/Awonke03/GKHACK24/main/continents-according-to-our-world-in-data.csv")
 data2.sample(n=5)
 
 # Merge the DataFrames based on 'Country Name' and 'Country Code'
