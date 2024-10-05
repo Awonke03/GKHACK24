@@ -11,3 +11,10 @@ dash-renderer
 xlrd
 openpyxl
 Flask
+pandas
+plotly.express
+dash
+dash_bootstrap_components
+jupyter_dash
+statsmodels
+matplotlib
