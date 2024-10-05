@@ -482,7 +482,8 @@ from dash.dependencies import Input, Output
 from jupyter_dash import JupyterDash
 
 # Create the app
-app = JupyterDash(__name__, external_stylesheets=[dbc.themes.SLATE], suppress_callback_exceptions=True)
+# Create the app
+app = dash.Dash(__name__, external_stylesheets=[dbc.themes.SLATE])
 server = app.server
 
 # Sidebar layout with full height and centered buttons
