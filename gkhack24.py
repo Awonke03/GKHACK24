@@ -20,7 +20,7 @@ import statsmodels.api as sm
 from matplotlib import pyplot as plt
 
 # Load the data from the CSV file (adjust header as necessary)
-data = pd.read_csv("Water_Leakages.csv")
+data = pd.read_csv("https://github.com/Awonke03/GKHACK24/blob/main/Water_Leakages.csv")
 
 # Display the first few rows of the updated DataFrame
 data.head()
@@ -393,7 +393,7 @@ fig3.update_layout(
 # Show the plot
 fig3.show()
 
-df5 = pd.read_excel("NC Data.xlsx")
+df5 = pd.read_excel("https://github.com/Awonke03/GKHACK24/blob/main/NC%20Data.xlsx")
 
 # Sort the DataFrame by 'Agricultural Potential'
 northern_cape_df_sorted = df5.sort_values(by='Agricultural Potential', ascending=False)
@@ -414,7 +414,7 @@ fig4.update_layout(
 fig4.show()
 
 # Read data from the Excel file
-df = pd.read_excel('Leakage_Costs.xlsx')
+df = pd.read_excel('https://github.com/Awonke03/GKHACK24/blob/main/Leakage_Costs.xlsx')
 
 df.columns = ['Year', 'Water Leakage (%)', 'Water Leakage Cost (Million R)']
 
@@ -442,7 +442,7 @@ fig5.update_layout(
 fig5.show()
 
 # Load the data from the Excel file
-file_path = 'Economic_Effect.xlsx'
+file_path = 'https://github.com/Awonke03/GKHACK24/blob/main/Economic_Effect.xlsx'
 df = pd.read_excel(file_path)
 
 # Filter the data for the relevant years (2018-2022)
