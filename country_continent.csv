@@ -1,0 +1,236 @@
+Country Code,Country Name,Continent
+AFE,Africa Eastern and Southern,Africa
+AFG,Afghanistan,Asia
+AFW,Africa Western and Central,Africa
+AGO,Angola,Africa
+ALB,Albania,Europe
+ARB,Arab World,Middle East
+ARE,United Arab Emirates,Asia
+ARG,Argentina,South America
+ARM,Armenia,Asia
+AUS,Australia,Oceania
+AUT,Austria,Europe
+AZE,Azerbaijan,Asia
+BDI,Burundi,Africa
+BEL,Belgium,Europe
+BEN,Benin,Africa
+BFA,Burkina Faso,Africa
+BGD,Bangladesh,Asia
+BGR,Bulgaria,Europe
+BHR,Bahrain,Asia
+BHS,Bahamas,North America
+BIH,Bosnia and Herzegovina,Europe
+BLR,Belarus,Europe
+BLZ,Belize,North America
+BOL,Bolivia,South America
+BRA,Brazil,South America
+BRB,Barbados,North America
+BRN,Brunei Darussalam,Asia
+BTN,Bhutan,Asia
+BWA,Botswana,Africa
+CAF,Central African Republic,Africa
+CAN,Canada,North America
+CEB,Central Europe and the Baltics,Europe
+CHE,Switzerland,Europe
+CHI,Channel Islands,Europe
+CHL,Chile,South America
+CHN,China,Asia
+CIV,Cote d'Ivoire,Africa
+CMR,Cameroon,Africa
+COD,"Congo, Dem. Rep.",Africa
+COG,"Congo, Rep.",Africa
+COL,Colombia,South America
+COM,Comoros,Africa
+CPV,Cabo Verde,Africa
+CRI,Costa Rica,North America
+CSS,Caribbean small states,North America
+CUB,Cuba,North America
+CYP,Cyprus,Europe
+CZE,Czech Republic,Europe
+DEU,Germany,Europe
+DJI,Djibouti,Africa
+DNK,Denmark,Europe
+DOM,Dominican Republic,North America
+DZA,Algeria,Africa
+EAP,East Asia and Pacific,Asia
+EAR,Early-demographic dividend,Global
+EAS,East Asia & Pacific (excluding high income),Asia
+ECA,Europe and Central Asia,Europe
+ECS,Europe & Central Asia (excluding high income),Europe
+ECU,Ecuador,South America
+EGY,Egypt,Africa
+EMU,Euro area,Europe
+ERI,Eritrea,Africa
+ESP,Spain,Europe
+EST,Estonia,Europe
+ETH,Ethiopia,Africa
+EUU,European Union,Europe
+FCS,Fragile and conflict affected situations,Global
+FIN,Finland,Europe
+FJI,Fiji,Oceania
+FRA,France,Europe
+GAB,Gabon,Africa
+GBR,United Kingdom,Europe
+GEO,Georgia,Asia
+GHA,Ghana,Africa
+GIN,Guinea,Africa
+GMB,"Gambia, The",Africa
+GNB,Guinea-Bissau,Africa
+GNQ,Equatorial Guinea,Africa
+GRC,Greece,Europe
+GTM,Guatemala,North America
+GUM,Guam,Oceania
+GUY,Guyana,South America
+HIC,High income,Global
+HKG,"Hong Kong SAR, China",Asia
+HND,Honduras,North America
+HPC,Heavily indebted poor countries (HIPC),Global
+HRV,Croatia,Europe
+HTI,Haiti,North America
+HUN,Hungary,Europe
+IBD,IBRD only,Global
+IBT,IDA & IBRD total,Global
+IDA,IDA only,Global
+IDB,Indonesia,Asia
+IDN,Indonesia,Asia
+IDX,East Asia & Pacific (IDA & IBRD countries),Asia
+IND,India,Asia
+IRL,Ireland,Europe
+IRN,"Iran, Islamic Rep.",Asia
+IRQ,Iraq,Asia
+ISL,Iceland,Europe
+ISR,Israel,Asia
+ITA,Italy,Europe
+JAM,Jamaica,North America
+JOR,Jordan,Asia
+JPN,Japan,Asia
+KAZ,Kazakhstan,Asia
+KEN,Kenya,Africa
+KGZ,Kyrgyz Republic,Asia
+KHM,Cambodia,Asia
+KOR,"Korea, Rep.",Asia
+KWT,Kuwait,Asia
+LAC,Latin America & Caribbean,South America
+LAO,Lao PDR,Asia
+LBN,Lebanon,Asia
+LBR,Liberia,Africa
+LBY,Libya,Africa
+LCA,St. Lucia,North America
+LCN,Latin America & the Caribbean (excluding high income),South America
+LDC,Least developed countries: UN classification,Global
+LIC,Low income,Global
+LKA,Sri Lanka,Asia
+LMC,Lower middle income,Global
+LMY,Low & middle income,Global
+LSO,Lesotho,Africa
+LTE,Late-demographic dividend,Global
+LTU,Lithuania,Europe
+LUX,Luxembourg,Europe
+LVA,Latvia,Europe
+MAC,"Macao SAR, China",Asia
+MAR,Morocco,Africa
+MDA,Moldova,Europe
+MDG,Madagascar,Africa
+MDV,Maldives,Asia
+MEA,Middle East & North Africa,Middle East
+MEX,Mexico,North America
+MIC,Middle income,Global
+MKD,North Macedonia,Europe
+MLI,Mali,Africa
+MLT,Malta,Europe
+MMR,Myanmar,Asia
+MNA,Middle East & North Africa (excluding high income),Middle East
+MNE,Montenegro,Europe
+MNG,Mongolia,Asia
+MOZ,Mozambique,Africa
+MRT,Mauritania,Africa
+MUS,Mauritius,Africa
+MWI,Malawi,Africa
+MYS,Malaysia,Asia
+NAC,North America,North America
+NAM,Namibia,Africa
+NCL,New Caledonia,Oceania
+NER,Niger,Africa
+NGA,Nigeria,Africa
+NIC,Nicaragua,North America
+NLD,Netherlands,Europe
+NOR,Norway,Europe
+NPL,Nepal,Asia
+NZL,New Zealand,Oceania
+OED,OECD members,Global
+OMN,Oman,Asia
+OSS,Other small states,Global
+PAK,Pakistan,Asia
+PAN,Panama,North America
+PER,Peru,South America
+PHL,Philippines,Asia
+PNG,Papua New Guinea,Oceania
+POL,Poland,Europe
+PRE,Pre-demographic dividend,Global
+PRI,Puerto Rico,North America
+PRK,"Korea, Dem. People’s Rep.",Asia
+PRT,Portugal,Europe
+PRY,Paraguay,South America
+PSE,West Bank and Gaza,Middle East
+PSS,Pacific island small states,Oceania
+PST,Post-demographic dividend,Global
+PYF,French Polynesia,Oceania
+QAT,Qatar,Asia
+ROU,Romania,Europe
+RUS,Russian Federation,Europe
+RWA,Rwanda,Africa
+SAS,South Asia,Asia
+SAU,Saudi Arabia,Asia
+SDN,Sudan,Africa
+SEN,Senegal,Africa
+SGP,Singapore,Asia
+SLB,Solomon Islands,Oceania
+SLE,Sierra Leone,Africa
+SLV,El Salvador,North America
+SOM,Somalia,Africa
+SRB,Serbia,Europe
+SSA,Sub-Saharan Africa,Africa
+SSD,South Sudan,Africa
+SSF,Sub-Saharan Africa (IDA & IBRD countries),Africa
+SST,Small states,Global
+STP,Sao Tome and Principe,Africa
+SUR,Suriname,South America
+SVK,Slovak Republic,Europe
+SVN,Slovenia,Europe
+SWE,Sweden,Europe
+SWZ,Eswatini,Africa
+SYR,Syrian Arab Republic,Asia
+TCD,Chad,Africa
+TEA,East Asia & Pacific (IDA & IBRD countries),Asia
+TEC,Europe & Central Asia (IDA & IBRD countries),Europe
+TGO,Togo,Africa
+THA,Thailand,Asia
+TJK,Tajikistan,Asia
+TKM,Turkmenistan,Asia
+TLA,Latin America & the Caribbean (IDA & IBRD countries),South America
+TLS,Timor-Leste,Asia
+TMN,Middle East & North Africa (IDA & IBRD countries),Middle East
+TON,Tonga,Oceania
+TSA,South Asia (IDA & IBRD),Asia
+TSS,Sub-Saharan Africa (IDA & IBRD),Africa
+TTO,Trinidad and Tobago,North America
+TUN,Tunisia,Africa
+TUR,Turkey,Asia
+TZA,Tanzania,Africa
+UGA,Uganda,Africa
+UKR,Ukraine,Europe
+UMC,Upper middle income,Global
+URY,Uruguay,South America
+USA,United States,North America
+UZB,Uzbekistan,Asia
+VCT,St. Vincent and the Grenadines,North America
+VEN,"Venezuela, RB",South America
+VIR,Virgin Islands (U.S.),North America
+VNM,Vietnam,Asia
+VUT,Vanuatu,Oceania
+WLD,World,Global
+WSM,Samoa,Oceania
+YEM,"Yemen, Rep.",Asia
+ZAF,South Africa,Africa
+ZMB,Zambia,Africa
+ZWE,Zimbabwe,Africa
