@@ -241,7 +241,7 @@ print(countries_without_continent['Country Code'].tolist())
 df_merged.head(2)
 
 # clean dataset
-df4 = pd.read_csv("country_continent.csv")
+df4 = pd.read_csv("https://raw.githubusercontent.com/Awonke03/GKHACK24/main/country_continent.csv")
 
 # Merge df3 with df_merged on the 'Country Code' column
 data = pd.merge(df4, df_merged, on='Country Code', how='inner')
