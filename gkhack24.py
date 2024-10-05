@@ -471,8 +471,6 @@ sunburst_fig.update_layout(
 # Show the plot
 sunburst_fig.show()
 
-import warnings
-warnings.filterwarnings("ignore")
 
 import dash
 import dash_bootstrap_components as dbc
