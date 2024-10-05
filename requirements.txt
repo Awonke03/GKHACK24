@@ -1,3 +1,5 @@
+Flask==2.2.2          
+Werkzeug==2.3.7       
 dash==2.15.0
 pandas
 plotly.express
@@ -10,11 +12,5 @@ dash-html-components
 dash-renderer
 xlrd
 openpyxl
-Flask
-pandas
-plotly.express
-dash
-dash_bootstrap_components
-jupyter_dash
 statsmodels
 matplotlib
